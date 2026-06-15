@@ -1,0 +1,29 @@
+# Keil build outputs
+keil/Objects/
+keil/Listings/
+*.uvguix.*
+*.dep
+*.htm
+*.lnp
+*.hex
+*.axf
+*.map
+*.d
+*.o
+*.crf
+
+# User / IDE
+.vscode/
+*.user
+Event.dot
+
+# Generated previews and temp refs
+tools/salary_cat_preview/
+tools/salary_cat_preview_t135/
+tools/stitch_preview/
+tools/cat_frame0.png
+tools/salary_cat_ref.png
+tools/stitch_ref.png
+
+# Nested clone (use tools/cat.gif instead)
+tools/SalaryCat/
